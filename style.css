@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Fondamento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+    background-image: url('BrkBad.jpg') ;
+    background-size: cover;
+
+}
+p{
+    font-family: 'Neonderthaw', cursive;
+    font-size:2em;
+    color: pink;
+    display: flex;
+    align-items: center;
+
+}
+h3{
+    font-family: 'Satisfy', cursive;
+    font-size:3em;
+    color: #ffffff !important;
+
+}
+h1{
+    font-family: 'Fondamento';
+    font-size:5em;
+    color: #ffffff !important;
+}
+#style{
+    color: yellow;
+    padding-right: 3px;
+    border-right: 3px;
+}
+.text{
+    border: 3px solid #ffffff;
+    border-radius: 10px;
+    background-color: black;
+    font-size:2em;
+    color: rgb(255, 81, 0);
+}
